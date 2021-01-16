@@ -15,6 +15,10 @@
     uri: https://github.com/ucb-ee106/sawyer_simulator.git
     version: master
 - git:
+    local-name: sawyer_moveit
+    uri: https://github.com/ucb-ee106/sawyer_moveit.git
+    version: master
+- git:
     local-name: sns_ik
     uri: https://github.com/ucb-ee106/sns_ik.git
     version: melodic-devel
