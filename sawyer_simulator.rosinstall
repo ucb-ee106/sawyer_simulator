@@ -1,16 +1,20 @@
 - git:
     local-name: intera_sdk
-    uri: https://github.com/RethinkRobotics/intera_sdk.git
+    uri: https://github.com/ucb-ee106/intera_sdk.git
     version: master
 - git:
     local-name: intera_common
-    uri: https://github.com/RethinkRobotics/intera_common.git
+    uri: https://github.com/ucb-ee106/intera_common.git
     version: master
 - git:
     local-name: sawyer_robot
-    uri: https://github.com/RethinkRobotics/sawyer_robot.git
+    uri: https://github.com/ucb-ee106/sawyer_robot.git
     version: master
 - git:
     local-name: sawyer_simulator
-    uri: https://github.com/RethinkRobotics/sawyer_simulator.git
+    uri: https://github.com/ucb-ee106/sawyer_simulator.git
     version: master
+- git:
+    local-name: sns_ik
+    uri: https://github.com/ucb-ee106/sns_ik.git
+    version: melodic-devel
